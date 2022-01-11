@@ -18,7 +18,7 @@ if (isset($_GET['data'])) {
         <div class="d-flex flex-column justify-content-center">
             <div class="card bg-light mb-3 mt-4 mx-auto" style="width: 48rem;">
                 <div class="card-header">
-                    <h3>Edit Quote</h2>
+                    <h3>Edit Quote</h3>
                 </div>
                 <div class="card-body login-card-body">
                     <form action="index.php?include=confirm-edit-quote" method="post">

@@ -7,7 +7,7 @@ include("./koneksi/koneksi.php");
         <div class="d-flex flex-column justify-content-center">
             <div class="card bg-light mb-3 mt-4 mx-auto" style="width: 48rem;">
                 <div class="card-header">
-                    <h3>Create Quote</h2>
+                    <h3>Create Quote</h3>
                 </div>
                 <div class="card-body login-card-body">
                     <form action="index.php?include=confirm-create-quote" method="post">
